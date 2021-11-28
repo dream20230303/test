@@ -10,7 +10,7 @@ public class BallGame extends JFrame {
         setVisible(true);
     }
     public static void main(String[] args){
-        System.out.println("1");
+        System.out.println("2");
         BallGame game = new BallGame();
         game.launchFrame();
     }
